@@ -1,8 +1,6 @@
 # Kaggle_S3_09
 
-<p align="center">
-  <img src="readme_images/dataset-cover.jpg" width="60%" >
-</p>
+
 
 ## Tabular Regression with a Concrete Strength Dataset
 
@@ -15,6 +13,10 @@
 -   Team members    : Solo
 -   Total teams     : 765
 -   Final Ranking   : # 21
+
+<p align="center">
+  <img src="readme_images/dataset-cover.jpg" width="60%" >
+</p>
 
 <br>
 
