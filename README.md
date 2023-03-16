@@ -1,5 +1,9 @@
 # Kaggle_S3_09
 
+<p align="center">
+  <img src="readme_images/dataset-cover.jpg" width="60%" >
+</p>
+
 ## Tabular Regression with a Concrete Strength Dataset
 
 <br>
@@ -14,7 +18,7 @@
 
 <br>
 
-My approach summary:
+### My approach summary:
 
 - Plot the overview of the data (EDA) : Correlation, distribution of dataset, number of missing rows, etc.
 
