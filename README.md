@@ -14,6 +14,8 @@
 -   Total teams     : 765
 -   Final Ranking   : # 21
 
+<br>
+
 <p align="center">
   <img src="readme_images/dataset-cover.jpg" width="60%" >
 </p>
